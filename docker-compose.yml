@@ -11,7 +11,7 @@ services:
   characters:
     container_name: characters
     restart: always
-    build: ./characters 
+    build: ./Characters 
     ports:
       - "8001:8001"
 
