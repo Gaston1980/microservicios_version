@@ -5,6 +5,6 @@ module.exports = {
         return characters;
     },
     create: async () => {
-    throw Error("No se pudo crear. Aun no existe Base de Datos")//completar cuando haya DB
+    throw Error("No se pudo crear. Aun no existe Data Base")//completar cuando haya DB
     } 
 }
