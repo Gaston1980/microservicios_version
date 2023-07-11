@@ -18,14 +18,14 @@ services:
   films:
     container_name: films
     restart: always
-    build: ./films 
+    build: ./Films 
     ports:
       - "8002:8002"
 
   planets:
     container_name: planets
     restart: always
-    build: ./planets 
+    build: ./Planets 
     ports:
       - "8003:8003"
 
