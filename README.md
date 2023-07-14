@@ -3,9 +3,9 @@
 
 ## Objetivos del Proyecto
 
-- Construir una App de Back-end con CRUD completo utlizando una  arquitectura de microservicios y desplegar la misma en una maquina virtual.
-- Afirmar y conectar los conceptos aprendidos en la carrera con nuevas practicas y herramientas.
-- Uso de buenas prácticas.
+- Construir una App de Back-end con CRUD completo utlizando una arquitectura de microservicios y desplegar la misma en una maquina virtual.
+- Afirmar y conectar los conceptos aprendidos en la carrera con una nueva forma de pensar un back-end, utilizando nuevas practicas y herramientas.
+- Uso de buenas prácticas para un desarrollo correcto, eficiente y escalable.
 - Aprender a dockerizar, a utilizar base de datos NOsql y su servicio en la nube y virtual machine.
 
 
