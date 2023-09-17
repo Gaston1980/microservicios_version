@@ -1,4 +1,4 @@
-![microservicios_version](https://res.cloudinary.com/dyycj9vam/image/upload/v1689278794/Star_Wars_img_fbukpz.jpg)
+![microservicios_version](https://res.cloudinary.com/dyycj9vam/image/upload/c_scale,w_577/v1689788897/Star_Wars_Logo.svg_viijwq.png)
 # Star Wars App - microservices version
 
 ## Project objectives 
